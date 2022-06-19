@@ -1,0 +1,152 @@
+Sporting CP 		: 3 -  	FC Vizela		: 0
+FC Arouca 			: 0 -  	Estoril Praia   : 2
+Moreirense FC 		: 1 -  	SL Benfica      : 2
+Marítimo M. 		: 0 -  	SC Braga        : 2
+Vitória SC 			: 0 -  	Portimonense    : 1
+CD Tondela 			: 3 -  	Santa Clara     : 0
+FC Porto 			: 2 -  	Belenenses SAD  : 0
+FC P.Ferreira 		: 2 -  	FC Famalicão    : 0
+Gil Vicente FC 		: 3 -  	Boavista FC     : 0
+Estoril Praia 		: 0 -  	Vitória SC      : 0
+FC Vizela 			: 2 -  	CD Tondela      : 1
+SL Benfica 			: 2 -  	FC Arouca       : 0
+SC Braga 			: 1 -  	Sporting CP     : 2
+Portimonense 		: 0 -  	Gil Vicente FC  : 1
+FC Famalicão 		: 1 -  	FC Porto        : 2
+Santa Clara 		: 2 -  	Moreirense FC   : 2
+Boavista FC 		: 3 -  	FC P.Ferreira   : 0
+Belenenses SAD 		: 1 -  	Marítimo M.     : 2
+FC Arouca 			: 2 -  	FC Famalicão    : 1
+Moreirense FC 		: 2 -  	SC Braga        : 3
+Gil Vicente FC 		: 0 -  	SL Benfica      : 2
+Sporting CP 		: 2 -  	Belenenses SAD  : 0
+CD Tondela 			: 0 -  	Portimonense    : 3
+Marítimo M. 		: 1 -  	FC Porto        : 1
+Vitória SC 			: 4 -  	FC Vizela       : 0
+FC P.Ferreira 		: 1 -  	Estoril Praia   : 3
+Boavista FC 		: 2 -  	Santa Clara     : 0
+Belenenses SAD 		: 1 -  	Moreirense FC   : 1
+Estoril Praia 		: 2 -  	Marítimo M.     : 1
+FC Vizela 			: 1 -  	Boavista FC     : 1
+FC Porto 			: 3 -  	FC Arouca       : 0
+FC Famalicão 		: 1 -  	Sporting CP     : 1
+SL Benfica 			: 2 -  	CD Tondela      : 1
+SC Braga	 		: 0 -  	Vitória SC      : 0
+Santa Clara 		: 1 -  	Gil Vicente FC  : 0
+Portimonense 		: 0 -  	FC P.Ferreira   : 1
+FC P.Ferreira 		: 0 -  	SC Braga        : 0
+Santa Clara 		: 0 -  	SL Benfica      : 5
+Sporting CP 		: 1 -  	FC Porto        : 1
+Moreirense FC 		: 2 -  	FC Famalicão    : 2
+Gil Vicente FC 		: 2 -  	FC Vizela       : 2
+Boavista FC 		: 1 -  	Portimonense    : 1
+Vitória SC 			: 0 -  	Belenenses SAD  : 0
+Marítimo M. 		: 2 -  	FC Arouca       : 2
+CD Tondela 			: 1 -  	Estoril Praia   : 2
+Portimonense 		: 2 -  	Santa Clara     : 1
+FC Famalicão 		: 0 -  	Marítimo M.     : 0
+Belenenses SAD 		: 1 -  	Gil Vicente FC  : 1
+FC Arouca 			: 2 -  	Vitória SC      : 2
+FC Vizela	 		: 1 -  	FC P.Ferreira   : 1
+FC Porto 			: 5 -  	Moreirense FC   : 0
+Estoril Praia 		: 0 -  	Sporting CP     : 1
+SL Benfica 			: 3 -  	Boavista FC     : 1
+SC Braga 			: 3 -  	CD Tondela      : 1
+Sporting CP 		: 1 -  	Marítimo M.     : 0
+Gil Vicente FC 		: 1 -  	FC Porto        : 2
+Moreirense FC 		: 2 -  	FC Arouca       : 1
+Vitória SC 			: 1 -  	SL Benfica      : 3
+CD Tondela 			: 3 -  	FC Famalicão    : 2
+Santa Clara 		: 1 -  	SC Braga        : 1
+Portimonense 		: 0 -  	FC Vizela       : 0
+FC P.Ferreira 		: 2 -  	Belenenses SAD  : 2
+Boavista FC 		: 1 -  	Estoril Praia   : 1
+Marítimo M. 		: 0 -  	Moreirense FC   : 0
+FC Famalicão 		: 1 -  	Vitória SC      : 2
+FC Vizela 			: 1 -  	Santa Clara     : 1
+FC Porto 			: 2 -  	FC P.Ferreira   : 1
+FC Arouca 			: 1 -  	Sporting CP     : 2
+Belenenses SAD 		: 0 -  	CD Tondela      : 2
+SL Benfica 			: 0 -  	Portimonense    : 1
+Estoril Praia 		: 2 -  	Gil Vicente FC  : 2
+SC Braga 			: 2 -  	Boavista FC     : 2
+Vitória SC 			: 2 -  	Marítimo M.     : 1
+Santa Clara 		: 0 -  	FC Famalicão    : 2
+CD Tondela 			: 1 -  	FC Porto        : 3
+Sporting CP 		: 1 -  	Moreirense FC   : 0
+FC P.Ferreira 		: 0 -  	FC Arouca       : 0
+FC Vizela 			: 0 -  	SL Benfica      : 1
+Portimonense 		: 0 -  	Estoril Praia   : 2
+Gil Vicente FC 		: 0 -  	SC Braga        : 1
+Boavista FC 		: 0 -  	Belenenses SAD  : 0
+FC Arouca 			: 2 -  	CD Tondela      : 0
+FC Porto 			: 4 -  	Boavista FC     : 1
+Estoril Praia 		: 1 -  	SL Benfica      : 1
+Sporting CP 		: 1 -  	Vitória SC      : 0
+Marítimo M. 		: 1 -  	Gil Vicente FC  : 2
+Belenenses SAD 		: 2 -  	Santa Clara     : 1
+FC Famalicão 		: 1 -  	FC Vizela       : 1
+SC Braga 			: 3 -  	Portimonense    : 0
+Moreirense FC 		: 1 -  	FC P.Ferreira   : 1
+Gil Vicente FC 		: 1 -  	FC Arouca       : 1
+Boavista FC 		: 2 -  	FC Famalicão    : 5
+FC Vizela 			: 1 -  	Estoril Praia   : 1
+Portimonense 		: 2 -  	Belenenses SAD  : 0
+Vitória SC	 		: 2 -  	Moreirense FC   : 1
+CD Tondela 			: 4 -  	Marítimo M.     : 2
+Santa Clara 		: 0 -  	FC Porto        : 3
+FC P.Ferreira 		: 0 -  	Sporting CP     : 2
+SL Benfica 			: 6 -  	SC Braga        : 1
+Moreirense FC 		: 2 -  	Gil Vicente FC  : 2
+FC Famalicão 		: 0 -  	Portimonense    : 3
+FC Arouca 			: 2 -  	Boavista FC     : 1
+Belenenses SAD 		: 0 -  	SL Benfica      : 7
+Marítimo M. 		: 2 -  	FC P.Ferreira   : 0
+Sporting CP 		: 2 -  	CD Tondela      : 0
+FC Porto 			: 2 -  	Vitória SC      : 1
+Estoril Praia 		: 2 -  	Santa Clara     : 2
+SC Braga 			: 4 -  	FC Vizela       : 1
+Portimonense 		: 0 -  	FC Porto        : 3
+SL Benfica 			: 1 -  	Sporting CP     : 3
+Boavista FC 		: 1 -  	Marítimo M.     : 1
+FC P.Ferreira 		: 1 -  	Vitória SC      : 2
+Santa Clara 		: 2 -  	FC Arouca       : 1
+Gil Vicente FC 		: 4 -  	FC Famalicão    : 0
+SC Braga	 		: 2 -  	Estoril Praia   : 0
+FC Vizela 			: 2 -  	Belenenses SAD  : 0
+CD Tondela 			: 2 -  	Moreirense FC   : 1
+FC P.Ferreira 		: 0 -  	Gil Vicente FC  : 1
+Marítimo M. 		: 4 -  	Santa Clara     : 1
+Vitória SC 			: 5 -  	CD Tondela      : 2
+Sporting CP 		: 2 -  	Boavista FC     : 0
+Moreirense FC 		: 0 -  	Portimonense    : 1
+Belenenses SAD 		: 0 -  	Estoril Praia   : 1
+FC Famalicão 		: 1 -  	SL Benfica      : 4
+FC Porto 			: 1 -  	SC Braga        : 0
+FC Arouca 			: 1 -  	FC Vizela       : 4
+Santa Clara 		: 1 -  	Vitória SC      : 0
+Estoril Praia 		: 2 -  	FC Famalicão    : 2
+Portimonense 		: 1 -  	FC Arouca       : 1
+CD Tondela 			: 0 -  	FC P.Ferreira   : 1
+Gil Vicente FC 		: 0 -  	Sporting CP     : 3
+Boavista FC 		: 1 -  	Moreirense FC   : 0
+SL Benfica	 		: 7 -  	Marítimo M.     : 1
+FC Vizela 			: 0 -  	FC Porto        : 4
+SC Braga 			: 1 -  	Belenenses SAD  : 0
+CD Tondela 			: 0 -  	Gil Vicente FC  : 3
+Marítimo M. 		: 2 -  	FC Vizela       : 0
+Moreirense FC 		: 1 -  	Estoril Praia   : 0
+Vitória SC 			: 1 -  	Boavista FC     : 1
+Sporting CP 		: 3 -  	Portimonense    : 2
+FC P.Ferreira 		: 2 -  	Santa Clara     : 1
+FC Arouca	 		: 0 -  	SC Braga        : 6
+FC Porto 			: 3 -  	SL Benfica      : 1
+Santa Clara 		: 3 -  	Sporting CP     : 2
+FC Vizela 			: 0 -  	Moreirense FC   : 1
+Estoril Praia 		: 2 -  	FC Porto        : 3
+Boavista FC 		: 1 -  	CD Tondela      : 1
+Portimonense 		: 1 -  	Marítimo M.     : 2
+SL Benfica	 		: 2 -  	FC P.Ferreira   : 0
+SC Braga 			: 2 -  	FC Famalicão    : 2
+Belenenses SAD 		: 2 -  	FC Arouca       : 1
+Gil Vicente FC 		: 3 -  	Vitória SC      : 2

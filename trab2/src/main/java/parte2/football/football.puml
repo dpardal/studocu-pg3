@@ -1,0 +1,50 @@
+@startuml
+'https://plantuml.com/class-diagram
+skinparam nodesep 20
+skinparam ranksep 40
+skinparam classAttributeIconSize 0
+hide empty members
+skinparam style strictuml
+hide circle
+
+class Game
+
+class ScoreBoard {
+    -board: Map<String,Team>
+    +loadFrom(String gamesFileName)
+    +void addGame(game:Game )
+    +toSortedTable(supplier:Supplier<C>):SortedMap<Integer, C>
+    +{static}processTable(table: SortedMap<Integer, C>, action:BiConsumer<Integer,Team> )
+    +saveOn(tableFileName:String )
+}
+
+class Team {
+    - ...
+
+    +Team(name: String )
+    +addGame(scored : int , conceded: int )
+    +playedGames() : int
+    +getPoints() : int
+    +getScored() : int
+    +getConceded() : int
+    +getDefeats() : int
+    +getDraws() : int
+    +getVictories() : int
+    +getName() : String
+    +diffGoals() : int
+    +toString() : String
+}
+
+ScoreBoard  --> "  *" Team : <<use>>
+
+class Game {
+    +<<final>> localTeam    : String
+    +<<final>> visitorTeam  : String
+    +<<final>> localGoals   : int
+    +<<final>> visitorGoals : int
+
+    +{static} Game from(String desc)
+    +Game(local:String , visitor: String, localGoals: int, visitorGoals: int )
+}
+ScoreBoard  --> "*" Game : <<use>>
+@enduml

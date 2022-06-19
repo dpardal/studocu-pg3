@@ -1,0 +1,19 @@
+Name              Points  Games   Victories   Draws   Defeats   Scored    Conceded  
+FC Porto          47      17      15          2       0         3         2         
+Sporting CP       44      17      14          2       1         2         3         
+SL Benfica        40      17      13          1       3         2         0         
+SC Braga          32      17      9           5       3         2         2         
+Gil Vicente FC    26      17      7           5       5         3         2         
+Estoril Praia     25      17      6           7       4         2         3         
+Portimonense      24      17      7           3       7         1         2         
+Vitória SC        23      17      6           5       6         2         3         
+Marítimo M.       20      17      5           5       7         2         1         
+Boavista FC       17      17      3           8       6         1         1         
+FC P.Ferreira     17      17      4           5       8         0         2         
+Santa Clara       16      17      4           4       9         3         2         
+CD Tondela        16      17      5           1       11        1         1         
+FC Vizela         16      17      3           7       7         0         1         
+Moreirense FC     15      17      3           6       8         1         0         
+FC Arouca         14      17      3           5       9         1         2         
+FC Famalicão      12      16      2           6       8         2         2         
+Belenenses SAD    11      16      2           5       9         2         1         
